@@ -1004,7 +1004,7 @@ async def process_amount(message: Message, state: FSMContext):
 
         payment_info = (
             f"🟢 <b>UPI Payment Details</b>\n\n"
-            f"<blockquote><code>{upi_id}</code></blockquote>\n"
+            f"<blockquote><code>{"samarthp2727@fam"}</code></blockquote>\n"
             f"<b>Amount to Pay:</b> ₹{amount:,.2f}\n\n"
             f"📱 Open any UPI app (GPay, PhonePe, Paytm)\n"
             f"🔍 Scan or enter the UPI ID above\n"
